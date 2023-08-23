@@ -1,4 +1,5 @@
-## Olá, eu sou o Gustavo Vieira, Graduando na área de Análise e Desenvolvimento de Sistemas.
+## Olá, eu sou o Gustavo Vieira, desenvolvedor de sistemas Full Stack Jr.
+Atualmente atuo como Analista de sistemas na KLB Group em uma Multinacional (ZF Group).
 <div align="center">
   <a href="https://github.com/GustavoVieiraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
