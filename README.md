@@ -1,4 +1,10 @@
-<div style="display: inline_block" align="center"><br>
+<div align="center">
+  <a href="https://github.com/GustavoVieiraa">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&rank_icon=github"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraa&layout=compact&langs_count=7&theme=highcontrast"/>
+ </div>
+
+ <div style="display: inline_block" align="center"><br>
   <h3>MySkills: </h3> 
   <img align="center" alt="Gusta-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gusta-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -17,13 +23,8 @@
   <img align="center" alt="Gusta-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gusta-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>  
-<br>
 
-<div align="center">
-  <a href="https://github.com/GustavoVieiraa">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&rank_icon=github"/>
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraa&layout=compact&langs_count=7&theme=highcontrast"/>
- </div>
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/gustvo_vieira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
