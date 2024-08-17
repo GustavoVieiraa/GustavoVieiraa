@@ -3,7 +3,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GustavoVieiraa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&rank_icon=github"/>
  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVieiraa&layout=compact&langs_count=7&theme=highcontrast"/>
  </div>
-
   
  <div style="display: inline_block" align="center"><br>
   <h3>MySkills: </h3> 
@@ -33,6 +32,7 @@
   <a href="https://www.linkedin.com/in/gustavo-vieira-0b2516220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.duolingo.com/profile/GustavoVieiraXD" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img height="28" width="142" src="https://komarev.com/ghpvc/?username=GustavoVieiraa&base=128593&color=blue&style=for-the-badge&label=VIEWS" target="_blank"></a>
+  <img height="28" width="142" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU2OTdqcjI5ZDIzcTZocTVhYThxajQ5eHZnZHV4em1na29vYWllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp>
 </div>
 
 <div align="center">
