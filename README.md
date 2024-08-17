@@ -32,7 +32,7 @@
   <a href = "mailto:gustavovieira292016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-vieira-0b2516220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.duolingo.com/profile/GustavoVieiraXD" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
-  <a href="https://www.duolingo.com/profile/GustavoVieiraXD" target="_blank"><img height="30" width="150" src="https://komarev.com/ghpvc/?username=GustavoVieiraa&base=15283&color=blue" target="_blank"></a>
+  <a href="#" target="_blank"><img height="30" width="150" src="https://komarev.com/ghpvc/?username=GustavoVieiraa&base=15283&color=blue" target="_blank"></a>
 </div>
 
 <div align="center">
