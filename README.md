@@ -42,17 +42,4 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/GustavoVieiraa/React-Alura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Alura" alt="Readme Card">
-  </a>
-  <a href="https://github.com/GustavoVieiraa/React-Ada-Tech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Ada-Tech" alt="Readme Card">
-  </a>
-  <a href="https://github.com/GustavoVieiraa/CSharp-COMPLETO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=CSharp-COMPLETO" alt="Readme Card">
-  </a>
-  <a href="https://github.com/GustavoVieiraa/Bootcamp-Santander-2024-Backend-com-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Bootcamp-Santander-2024-Backend-com-Java" alt="Readme Card">
-  </a>
-</p>
+
