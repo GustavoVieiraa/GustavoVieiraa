@@ -44,16 +44,19 @@
 <br>
 
 <p align="center">
+  <a href="https://github.com/GustavoVieiraa/Formacao-.NET-CSHARP-Alura">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Formacao-.NET-CSHARP-Alura&theme="dark" alt="Readme Card">
+  </a>
   <a href="https://github.com/GustavoVieiraa/React-Alura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Alura&theme=architect" alt="Readme Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Alura&theme="dark" alt="Readme Card">
   </a>
   <a href="https://github.com/GustavoVieiraa/React-Ada-Tech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Ada-Tech&theme=architect" alt="Readme Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Ada-Tech&theme="dark" alt="Readme Card">
   </a>
   <a href="https://github.com/GustavoVieiraa/CSharp-COMPLETO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=CSharp-COMPLETO&theme=architect" alt="Readme Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=CSharp-COMPLETO&theme="dark" alt="Readme Card">
   </a>
   <a href="https://github.com/GustavoVieiraa/Bootcamp-Santander-2024-Backend-com-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Bootcamp-Santander-2024-Backend-com-Java&theme=modernist" alt="Readme Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Bootcamp-Santander-2024-Backend-com-Java&theme="dark" alt="Readme Card">
   </a>
 </p>
