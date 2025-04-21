@@ -47,8 +47,11 @@
   <a href="https://github.com/GustavoVieiraa/Formacao-.NET-CSHARP-Alura">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Formacao-.NET-CSHARP-Alura&theme="dark" alt="Readme Card">
   </a>
-  <a href="https://github.com/GustavoVieiraa/React-Alura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Alura&theme="dark" alt="Readme Card">
+  <a href="https://github.com/GustavoVieiraa/Formacao-Next.js-Alura">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Formacao-Next.js-Alura&theme="dark" alt="Readme Card">
+  </a>
+  <a href="https://github.com/GustavoVieiraa/Formacao-React-Alura">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Formacao-React-Alura&theme="dark" alt="Readme Card">
   </a>
   <a href="https://github.com/GustavoVieiraa/React-Ada-Tech">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Ada-Tech&theme="dark" alt="Readme Card">
