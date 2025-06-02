@@ -53,6 +53,9 @@
   <a href="https://github.com/GustavoVieiraa/Formacao-React-Alura">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Formacao-React-Alura&theme=highcontrast" alt="Readme Card">
   </a>
+  <a href="https://github.com/GustavoVieiraa/Formacao-DevOps-Alura">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=Formacao-DevOps-Alura&theme=highcontrast" alt="Readme Card">
+  </a>
   <a href="https://github.com/GustavoVieiraa/React-Ada-Tech">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoVieiraa&repo=React-Ada-Tech&theme=highcontrast" alt="Readme Card">
   </a>
